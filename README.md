@@ -1,6 +1,6 @@
 # TASK-INTERN-CAREER
 Global Terrorism Analysis with Power BI
-Here’s a `README.md` file formatted for GitHub based on your description:
+
 
 ```markdown
 # Terrorism Dataset Analysis
